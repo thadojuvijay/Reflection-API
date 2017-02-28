@@ -27,6 +27,12 @@ etc.
                                   4.Parameter
     
     if we get the class object,we can get all the remaining objects available in the java.lang.reflect package.
+    All IDE's internally use the Reflection API.when we type the contrl+1 we get all the available method in the class.
+    because of this Reflection Api.
+    Reflection means suppose  if u Put class opposite the mirror it reflects you same 
+    image or(in that class what method and constructors availble it will shows) it  is the beauty of reflection API
+    
+    
     
     why we are learning about Reflection API ?
     Answer: to understanding of Annotations.

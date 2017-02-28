@@ -1,0 +1,21 @@
+we have so many small API
+like JdBc Api
+servlet Api
+jsp Api
+jPa ApI
+Reflection API
+etc.
+             and  the sunmicrosystem has classified into two API.They are 1. JSE API   2)JEE API
+                1. under (JSE API)
+                    jdbc Api 
+                    reflection Api
+                    jNDI Api
+                2. under (JEE API)
+                    servlet API
+                    JSP API
+                    JPA API
+                    
+                                   The Reflection API is part of JSE API
+                    
+          When we download java software we will not get API documentation.we need to download it seperately.
+          

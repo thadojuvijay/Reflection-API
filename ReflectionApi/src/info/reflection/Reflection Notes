@@ -19,3 +19,12 @@ etc.
                     
           When we download java software we will not get API documentation.we need to download it seperately.
           
+          
+       The following of the most important classes of java.lang.reflect package are
+                                  1.Field
+                                  2.Constructor
+                                  3.Method
+                                  4.Parameter
+    
+    if we get the class object,we can get all the remaining objects available in the java.lang.reflect package.
+          

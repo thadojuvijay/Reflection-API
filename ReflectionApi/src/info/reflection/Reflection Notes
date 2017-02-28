@@ -27,4 +27,8 @@ etc.
                                   4.Parameter
     
     if we get the class object,we can get all the remaining objects available in the java.lang.reflect package.
+    
+    why we are learning about Reflection API ?
+    Answer: to understanding of Annotations.
+    We use Reflection API to process  Annotations
           
